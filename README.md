@@ -2,7 +2,7 @@
 
 IA pour la théorie des jeux.
 
-Recherche par prcours de graphe en profondeur :
+Recherche par parcours de graphe en profondeur :
 - DFS (Depth first search)
 - Iterative deepening
 - Algorithme Alpha/Beta
